@@ -2,6 +2,11 @@
 <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="logo"></img>
 </div>
 
+
+# My notes
+
+I cloned and made a few changes to jax, because of silly errors I was getting from the original package
+
 # JAX: Autograd and XLA
 
 ![Continuous integration](https://github.com/google/jax/workflows/Continuous%20integration/badge.svg)
